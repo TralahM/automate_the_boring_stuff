@@ -1,0 +1,16 @@
+shutil
+shelve
+re
+os
+argparse
+json
+csv
+pickle
+sys
+send2trash
+zipfile
+openpyxl
+logging
+PyPDF2
+Python-Docx
+
