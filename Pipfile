@@ -1,7 +1,5 @@
 argparse
-pickle
 openpyxl
-logging
 PyPDF2
 Python-Docx
 
