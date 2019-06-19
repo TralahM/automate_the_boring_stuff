@@ -7,6 +7,6 @@ install:
     - git clone https://github.com/TralahM/automate_the_boring_stuff
     - cd automate_the_boring_stuff
     - pip install -r requirements.txt
-scripts:
+script:
     - python readme.py
     - python lookup_meaning.py ephemeral
