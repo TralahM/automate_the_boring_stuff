@@ -1,12 +1,6 @@
-shutil
 shelve
-re
-os
 argparse
-json
-csv
 pickle
-sys
 send2trash
 zipfile
 openpyxl
