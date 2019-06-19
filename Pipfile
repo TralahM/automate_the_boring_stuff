@@ -1,8 +1,5 @@
-shelve
 argparse
 pickle
-send2trash
-zipfile
 openpyxl
 logging
 PyPDF2
