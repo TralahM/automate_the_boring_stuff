@@ -1,0 +1,4 @@
+Sitemap: https://tralahm.github.io/automate_the_boring_stuff/sitemapindex.xml
+
+User-Agent: *
+Host: tralahm.github.io
