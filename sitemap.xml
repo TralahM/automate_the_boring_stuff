@@ -6,23 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://tralahm.github.io/automate_the_boring_stuff/</loc>
-  <lastmod>2019-07-11T17:22:00Z</lastmod>
+  <loc>https://tralahm.github.io/</loc>
+  <lastmod>2019-07-20T21:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tralahm.github.io/automate_the_boring_stuff/archive.html</loc>
-  <lastmod>2019-07-11T17:22:00Z</lastmod>
+  <loc>https://tralahm.github.io/archive.html</loc>
+  <lastmod>2019-07-20T21:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tralahm.github.io/automate_the_boring_stuff/categories/</loc>
-  <lastmod>2019-07-11T17:22:00Z</lastmod>
+  <loc>https://tralahm.github.io/categories/</loc>
+  <lastmod>2019-07-20T21:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tralahm.github.io/automate_the_boring_stuff/listings/</loc>
-  <lastmod>2019-07-11T17:22:00Z</lastmod>
+  <loc>https://tralahm.github.io/galleries/</loc>
+  <lastmod>2019-07-20T21:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tralahm.github.io/automate_the_boring_stuff/pages/project-overview/</loc>
-  <lastmod>2019-07-11T17:22:00Z</lastmod>
+  <loc>https://tralahm.github.io/listings/</loc>
+  <lastmod>2019-07-20T21:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tralahm.github.io/posts/</loc>
+  <lastmod>2019-07-20T21:38:00Z</lastmod>
  </url>
 </urlset>
