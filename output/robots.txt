@@ -1,4 +1,0 @@
-Sitemap: https://tralahm.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: tralahm.github.io
