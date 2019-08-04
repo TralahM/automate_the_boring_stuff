@@ -6,15 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://tralahm.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-08-04T18:11:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://tralahm.github.io/rss.xml</loc>
-  <lastmod>2019-08-04T18:11:00Z</lastmod>
+  <lastmod>2019-08-04T18:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tralahm.github.io/sitemap.xml</loc>
-  <lastmod>2019-08-04T18:11:00Z</lastmod>
+  <lastmod>2019-08-04T18:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>
