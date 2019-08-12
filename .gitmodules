@@ -1,3 +1,6 @@
 [submodule "docrepo"]
 	path = docrepo
 	url = git@github.com:TralahM/docrepo.git
+[submodule "AttackSurfaceMapper"]
+	path = AttackSurfaceMapper
+	url = https://github.com/superhedgy/AttackSurfaceMapper.git
